@@ -1,2 +1,2 @@
 # Market-Risk-sp24
-Market Risk: Lookback Call
+Mini Project_Risk Analysis of AXP and SPY
