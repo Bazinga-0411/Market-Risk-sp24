@@ -1,2 +1,2 @@
 # Market-Risk-sp24
-Mini Project_Risk Analysis of AXP and SPY
+Market Risk Analysis of American Express(AXP) and S&P 500 ETF(SPY)
